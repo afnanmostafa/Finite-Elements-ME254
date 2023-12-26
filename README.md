@@ -3,10 +3,10 @@
 ### Dec 22, 2023 (Happy Holidays!!)
 
 
-* Sample System with Meshing:
+## Sample System with Meshing:
 ![system](https://github.com/afnanmostafa/Finite-Elements-ME254/blob/b8b44e4284e439990dc749d78de22d6751afccc0/figures/model.png)
 
-### Thie subdirectories include functions and main script for running FEM simulations in MATLAB.
+### ./src/ subdirectory includes *functions* and *main script* for running FEM simulations in MATLAB.
 
 
 1. main_script_FEM_AfnanMostafa.m	= 	main MATLAB script
@@ -24,7 +24,7 @@
 7. show_displacements.m			=	function file for plotting contours
 
 
-#### Other files are input files necessary for running these codes.
+#### ./src/input-files/ includes Other files are input files necessary for running these codes.
 
 ### __Runtime of this code at different architectures:__
 
@@ -35,4 +35,8 @@
 2. Coarse mesh:
 * Full-int: 	 **~20 seconds** (Intel 13th Gen i7, 32 GB RAM); **~30 seconds** (Mac M2, RAM 24 GB)
 * Red-int: 	 **~10 seconds** (Intel 13th Gen i7, 32 GB RAM); **~15 seconds** (Mac M2, RAM 24 GB)
+
+
+## Sample Output (displacement contours):
+![disp-fine](https://github.com/afnanmostafa/Finite-Elements-ME254/blob/a5be71b8df82a2dcf2b68bcd44262b46dc5f66e6/figures/f-s-d.png)
 
