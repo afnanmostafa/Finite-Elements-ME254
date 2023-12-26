@@ -2,6 +2,10 @@
 ### Afnan Mostafa
 ### Dec 22, 2023 (Happy Holidays!!)
 
+
+* Sample System with Meshing:
+![system](https://github.com/afnanmostafa/Finite-Elements-ME254/blob/b8b44e4284e439990dc749d78de22d6751afccc0/figures/model.png)
+
 ### Thie subdirectories include functions and main script for running FEM simulations in MATLAB.
 
 
