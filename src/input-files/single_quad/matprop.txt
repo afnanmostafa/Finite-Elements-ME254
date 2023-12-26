@@ -1,0 +1,4 @@
+% FORMAT:
+% Thickness, Poisson's ratio, Young's modulus
+% 1.0     0.3 2.8E+06
+1.0	0.0	1.0

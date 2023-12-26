@@ -1,0 +1,8 @@
+% FORMAT:
+% (X force, Y force)
+% Line number equals to the node number
+%
+0.	0.
+0.	0.
+0.	-1.
+0.	-1.

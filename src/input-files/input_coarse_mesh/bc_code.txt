@@ -1,0 +1,20 @@
+% FORMAT:
+% 
+% 1 means fixed, 0 means free
+% Line number equals to the node number
+%
+1       1
+0       1
+0       0
+0       0
+0       0
+1       0
+0       1
+0       1
+1       0
+1       0
+0       0
+0       0
+0       0
+0       0
+	

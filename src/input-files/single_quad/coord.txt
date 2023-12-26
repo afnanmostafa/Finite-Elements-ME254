@@ -1,0 +1,8 @@
+% FORMAT:
+% (X, Y)
+% Line number equals to the node number
+%
+0      0       
+1      0       
+1      1       
+0      1           

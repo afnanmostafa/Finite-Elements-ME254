@@ -1,0 +1,6 @@
+% FORMAT:
+% Counter clockwise connection for Quad4
+% Node1, Node2, Node3, Node4
+% Line number equals to the element number
+%
+1	2	3	4     
