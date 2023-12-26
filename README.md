@@ -3,6 +3,7 @@
 ### Dec 22, 2023 (Happy Holidays!!)
 
 ## System and Sample Meshing:
+<img src="https://github.com/afnanmostafa/Finite-Elements-ME254/blob/4d8d06c460e71bf6c80f29a5d0b168ad7df5b5fe/figures/pro1.png" alt="drawing" width="200"/>
 ![system](https://github.com/afnanmostafa/Finite-Elements-ME254/blob/4d8d06c460e71bf6c80f29a5d0b168ad7df5b5fe/figures/pro1.png)
 ![meshing](https://github.com/afnanmostafa/Finite-Elements-ME254/blob/b8b44e4284e439990dc749d78de22d6751afccc0/figures/model.png)
 
