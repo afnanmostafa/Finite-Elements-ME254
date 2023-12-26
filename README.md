@@ -3,11 +3,13 @@
 ### Dec 22, 2023 (Happy Holidays!!)
 
 ## System:
+<p align="center">
 <img src="https://github.com/afnanmostafa/Finite-Elements-ME254/blob/4d8d06c460e71bf6c80f29a5d0b168ad7df5b5fe/figures/pro1.png" alt="system" width="600"/>
-
+</p>
 ## Meshing:
+<p align="center">
 <img src="https://github.com/afnanmostafa/Finite-Elements-ME254/blob/b8b44e4284e439990dc749d78de22d6751afccc0/figures/model.png" alt="meshing" width="600"/>
-
+</p>
 ### ./src/ subdirectory includes *functions* and *main script* for running FEM simulations in MATLAB.
 
 
