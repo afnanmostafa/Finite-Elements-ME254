@@ -2,9 +2,9 @@
 ### Afnan Mostafa
 ### Dec 22, 2023 (Happy Holidays!!)
 
-
-## Sample System with Meshing:
-![system](https://github.com/afnanmostafa/Finite-Elements-ME254/blob/b8b44e4284e439990dc749d78de22d6751afccc0/figures/model.png)
+## System and Sample Meshing:
+![system](https://github.com/afnanmostafa/Finite-Elements-ME254/blob/4d8d06c460e71bf6c80f29a5d0b168ad7df5b5fe/figures/pro1.png)
+![meshing](https://github.com/afnanmostafa/Finite-Elements-ME254/blob/b8b44e4284e439990dc749d78de22d6751afccc0/figures/model.png)
 
 ### ./src/ subdirectory includes *functions* and *main script* for running FEM simulations in MATLAB.
 
