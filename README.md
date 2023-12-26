@@ -22,13 +22,13 @@
 
 #### Other files are input files necessary for running these codes.
 
-### Runtime of this code at different architectures:
+### __Runtime of this code at different architectures:__
 
 1. Fine mesh:	
-* Full-int: 	~60 seconds (Intel 13th Gen i7, 32 GB RAM);	~90 seconds (Mac M2, RAM 24 GB)
-* Red-int: 	~30 seconds (Intel 13th Gen i7, 32 GB RAM);	~45 seconds (Mac M2, RAM 24 GB)
+* Full-int: 	**~60 seconds** (Intel 13th Gen i7, 32 GB RAM);	**~90 seconds** (Mac M2, RAM 24 GB)
+* Red-int: 	**~30 seconds** (Intel 13th Gen i7, 32 GB RAM);	**~45 seconds** (Mac M2, RAM 24 GB)
 
 2. Coarse mesh:
-* Full-int: 	 ~20 seconds (Intel 13th Gen i7, 32 GB RAM);	~30 seconds (Mac M2, RAM 24 GB)
-* Red-int: 	 ~10 seconds (Intel 13th Gen i7, 32 GB RAM);	~15 seconds (Mac M2, RAM 24 GB)
+* Full-int: 	 **~20 seconds** (Intel 13th Gen i7, 32 GB RAM); **~30 seconds** (Mac M2, RAM 24 GB)
+* Red-int: 	 **~10 seconds** (Intel 13th Gen i7, 32 GB RAM); **~15 seconds** (Mac M2, RAM 24 GB)
 
