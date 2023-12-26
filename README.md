@@ -11,6 +11,7 @@
 <p align="center">
 <img src="https://github.com/afnanmostafa/Finite-Elements-ME254/blob/b8b44e4284e439990dc749d78de22d6751afccc0/figures/model.png" alt="meshing" width="600"/>
 </p>
+
 ### ./src/ subdirectory includes *functions* and *main script* for running FEM simulations in MATLAB.
 
 
