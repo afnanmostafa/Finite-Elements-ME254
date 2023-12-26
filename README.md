@@ -46,3 +46,6 @@
 ## Sample Output (displacement contours):
 ![disp-fine](https://github.com/afnanmostafa/Finite-Elements-ME254/blob/a5be71b8df82a2dcf2b68bcd44262b46dc5f66e6/figures/f-s-d.png)
 
+
+Please contact @ afnanmostafa102@gmail.com if you see any missing edge cases and bugs (remember, this is not fully-generalized and I will keep working on it).
+Thanks!!
